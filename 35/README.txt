@@ -1,16 +1,15 @@
 Tasks
 --------
 
-
 1. Add binary operations MinusOp(-), MulOp(*), DivOp(/).
 
 2. Add unary operation abstract class.
 
-3. Add unary operation NegOp(neg) that negates the top element of the stack.
+3. Add unary operation NegOp(neg) that negates the top element of the stack. (2 neg -> -2)
 
-3 1/2. Add unary operation SqOp(sq) that squares the top element of the stack.
+3 1/2. Add unary operation SqOp(sq) that squares the top element of the stack. (2 sq -> 4)
 
-4. Add unary operation natural logarithm LogOp(log) and reverse operation ExpOp(exp).
+4. Add unary operation natural logarithm LogOp(log) and reverse operation ExpOp(exp). ln(x); e^x
 
 5. Add operation DupOp(dup) that duplicates the top element of the stack.
 

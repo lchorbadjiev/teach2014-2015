@@ -21,6 +21,9 @@ public:
 	
 	void data_dump() const;
 	
+	
+	
+	
 	void op_add(Operation* op);
 	Operation* op_find(const std::string& token) const;
 	
