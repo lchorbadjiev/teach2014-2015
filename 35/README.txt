@@ -19,6 +19,16 @@ Tasks
 7. Add error handling: add throw exception inside operations where neccessary and add exception handling inside Postfix::run()
 
 8. Experiment with adding composite operation (operation of operations). see http://en.wikipedia.org/wiki/Composite_pattern, http://sourcemaking.com/design_patterns/composite
+	
+9. Add composite operation that calculates (x^2+y^2). The operation should contain list of following operations:
+	- sq
+	- swap
+	- sq
+	- +
+
+
+
+
 
 
 
