@@ -8,6 +8,8 @@ Tasks
 
 3. Add unary operation NegOp(neg) that negates the top element of the stack.
 
+3 1/2. Add unary operation SqOp(sq) that squares the top element of the stack.
+
 4. Add unary operation natural logarithm LogOp(log) and reverse operation ExpOp(exp).
 
 5. Add operation DupOp(dup) that duplicates the top element of the stack.
