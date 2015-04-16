@@ -1,3 +1,15 @@
+# vm download: https://drive.google.com/file/d/0B3np0Se6U29KUVNhUlk5cHVhLTg/view?usp=sharing
+
+# user: vmware
+# pass: vmware
+
+# to check the ip: ifconfig
+
+# to start the server: java -jar Javatopia3-0.1.1-SNAPSHOT.jar
+
+# to browse: http://<ip>:8080/
+
+
 import urllib2
 
 
