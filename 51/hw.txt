@@ -1,0 +1,15 @@
+
+
+algorithm, iterators, function objects, containers 
+
+http://www.pagat.com/war/war.html
+War for two players
+
+
+1. Class 'Card'
+2. Class 'Deck'
+
+3. Deck Shuffle
+4. Deck Draw
+
+

@@ -1,0 +1,14 @@
+
+
+http://www.pagat.com/war/war.html
+War for two players
+
+Use <algorithm>, <iterator>, funcion objects, etc
+
+1. Class 'Card'
+2. Class 'Deck'
+	
+3. Shuffle Deck
+4. Deck Draw
+
+
